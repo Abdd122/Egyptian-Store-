@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "216707103164",
+    "firebase_url": "https://arabic-tutor-vs74s-default-rtdb.firebaseio.com",
+    "project_id": "arabic-tutor-vs74s",
+    "storage_bucket": "arabic-tutor-vs74s.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216707103164:android:d5bd1b33c54ad80edc53b9",
+        "android_client_info": {
+          "package_name": "com.example.admiral_life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216707103164-b4afpfcqjlev86vmhm08f17ngci9v2v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANdmaEAkAdEJAVoNg1yKVDT0b3I_AlQ2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216707103164-b4afpfcqjlev86vmhm08f17ngci9v2v9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216707103164-0lqdijca1pcl2fblb0ukqurb4r2o5857.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.admiralLife"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216707103164:android:e367bac9b509b6e0dc53b9",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216707103164-b4afpfcqjlev86vmhm08f17ngci9v2v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANdmaEAkAdEJAVoNg1yKVDT0b3I_AlQ2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216707103164-b4afpfcqjlev86vmhm08f17ngci9v2v9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216707103164-0lqdijca1pcl2fblb0ukqurb4r2o5857.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.admiralLife"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216707103164:android:6fd230b65fe880dadc53b9",
+        "android_client_info": {
+          "package_name": "com.yourpackage.yourapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216707103164-b4afpfcqjlev86vmhm08f17ngci9v2v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANdmaEAkAdEJAVoNg1yKVDT0b3I_AlQ2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216707103164-b4afpfcqjlev86vmhm08f17ngci9v2v9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216707103164-0lqdijca1pcl2fblb0ukqurb4r2o5857.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.admiralLife"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
